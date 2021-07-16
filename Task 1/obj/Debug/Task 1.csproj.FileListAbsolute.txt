@@ -1,0 +1,6 @@
+F:\PROJECT 21\.NET CLASSES\Task\Solutions\Task 1\Task 1\bin\Debug\Task 1.exe.config
+F:\PROJECT 21\.NET CLASSES\Task\Solutions\Task 1\Task 1\bin\Debug\Task 1.exe
+F:\PROJECT 21\.NET CLASSES\Task\Solutions\Task 1\Task 1\bin\Debug\Task 1.pdb
+F:\PROJECT 21\.NET CLASSES\Task\Solutions\Task 1\Task 1\obj\Debug\Task 1.csprojResolveAssemblyReference.cache
+F:\PROJECT 21\.NET CLASSES\Task\Solutions\Task 1\Task 1\obj\Debug\Task 1.exe
+F:\PROJECT 21\.NET CLASSES\Task\Solutions\Task 1\Task 1\obj\Debug\Task 1.pdb
